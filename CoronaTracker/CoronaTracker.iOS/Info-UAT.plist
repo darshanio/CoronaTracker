@@ -23,16 +23,16 @@
 	<key>MinimumOSVersion</key>
 	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>CoronaTracker-Development</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.rnd.coronatrackerdev</string>
+	<string>CoronaTracker</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
-	<key>CFBundleName</key>
-	<string>CoronaTracker</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.rnd.coronatrackeruat</string>
 	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon-Development.appiconset</string>
+	<string>Assets.xcassets/AppIcon-UAT.appiconset</string>
+	<key>CFBundleName</key>
+	<string>CoronaTracker-UAT</string>
 </dict>
 </plist>
